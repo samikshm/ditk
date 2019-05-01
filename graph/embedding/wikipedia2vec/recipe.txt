@@ -1,2 +1,0 @@
-ditk/graph/embedding/wikipedia2vec/
-Wikipedia2vec.Wikipedia2vec
